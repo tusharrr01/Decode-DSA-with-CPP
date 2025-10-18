@@ -11,6 +11,7 @@
 | **Course** | [Decode DSA with C++ - PW Skills](https://pwskills.com) |
 | **Language** | C++ |
 | **Started On** | 17, October 2025 |
+| **Ended On** | Soon |
 | **Repository** | [tusharr01/Decode-DSA-with-CPP](https://github.com/tusharr01/Decode-DSA-with-CPP) |
 
 ---
@@ -24,11 +25,32 @@
 
 ---
 
-## 🧩 Topics Covered So Far
+## 🧩 Topics Covered So Far  
 
 ✅ Introduction to DSA  
 ☑️ Fundamentals of DSA  
 🔲 Arrays  
- 
+🔲 Searching Algorithms  
+🔲 Sorting Algorithms  
+🔲 Recursion  
+🔲 Space and Time Complexity  
+🔲 Linked List  
+🔲 Stack  
+🔲 Queue  
+🔲 Trees  
+🔲 Binary Search Tree (BST)  
+🔲 Heap / Priority Queue  
+🔲 Hashing  
+🔲 Graphs  
+🔲 Greedy Algorithms  
+🔲 Divide and Conquer  
+🔲 Dynamic Programming (DP)  
+🔲 Backtracking  
+🔲 Bit Manipulation  
+🔲 Sliding Window & Two Pointer Techniques  
+🔲 String Algorithms  
+🔲 Mathematics for DSA  
+🔲 Advanced Data Structures  
+🔲 Problem Solving & Practice Sets  
 
 ---
