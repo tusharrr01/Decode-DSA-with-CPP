@@ -15,14 +15,13 @@
 | **Repository** | [tusharr01/Decode-DSA-with-CPP](https://github.com/tusharr01/Decode-DSA-with-CPP) |
 
 ---
-## 📈 Current Progress  
+## 📈 DSA Learning Progress
 
-| 📚 Topic | 🏁 Status | 📅 Duration | 🧮 Questions Practiced | 💻 Code |
-|:---------|:----------:|:------------:|:----------------------:|:-------:|
-| Introduction to DSA | ✅ Completed | 17/10/2025 → 19/10/2025 | 9 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/Introduction) |
-| Fundamentals of DSA | 🟩 In Progress | 19/10/2025 → Present | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
-| Arrays | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
-
+| Topic | Status | Duration | Questions | Code |
+|:---|:---:|:---:|:---:|:---:|
+| **Introduction to DSA** | ✅ Completed | 17/10/2025 → 19/10/2025 | 9 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/Introduction) |
+| **Fundamentals of DSA** | 🟩 In Progress | 19/10/2025 → Present | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
+| **Arrays** | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
 
 ---
 
