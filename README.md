@@ -17,7 +17,7 @@
 ---
 ## 📈 Current Progress  
 
-| 📚 Topic | 🏁 Status | 📅 Duration | 🧮 Questions Practiced  | 💻 Code |
+| 📚 Topic | 🏁 Status | 📅 Duration | 🧮 Questions Practiced | 🧠 Key Focus | 💻 Code |
 |:---------|:----------:|:------------:|:----------------------:|:-------------|:-------:|
 | Introduction to DSA | ✅ Completed | 17/10/2025 → 19/10/2025 | 9 | Input & Output, Operators | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/Introduction) |
 | Fundamentals of DSA | 🟩 In Progress | 19/10/2025 → Present | 0 | Time & Space Complexity, Big O Notation | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
