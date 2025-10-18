@@ -14,13 +14,13 @@
 | **Repository** | [tusharr01/Decode-DSA-with-CPP](https://github.com/tusharr01/Decode-DSA-with-CPP) |
 
 ---
-
 ## 📈 Current Progress
 
-| Introduction to DSA   | ✅ Completed  | 17/10/2025 To 19/10/2025 | Questions Practiced - 9 .|
-| Fundamentals of DSA   | 🟩 In Progress | 
-| Arrays                | ⏳ Upcoming | 
-
+| 📚 Topic | 🏁 Status | 📅 Duration | 🧮 Questions Practiced | 🧠 Key Focus |
+|:---------|:----------:|:------------:|:----------------------:|:-------------|
+| Introduction to DSA | ✅ Completed | 17/10/2025 → 19/10/2025 | 9 | inpute & output , Operators |
+| Fundamentals of DSA | 🟩 In Progress | 19/10/2025 → 20/10/2025 | 5 | Time & Space Complexity, Big O Notation |
+| Arrays | ⏳ Upcoming | 20/10/2025 → Present | 6 | Array Operations, Traversal |
 
 ---
 
