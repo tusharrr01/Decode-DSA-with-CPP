@@ -19,8 +19,8 @@
 | 📚 Topic | 🏁 Status | 📅 Duration | 🧮 Questions Practiced | 🧠 Key Focus |
 |:---------|:----------:|:------------:|:----------------------:|:-------------|
 | Introduction to DSA | ✅ Completed | 17/10/2025 → 19/10/2025 | 9 | inpute & output , Operators |
-| Fundamentals of DSA | 🟩 In Progress | 19/10/2025 → Present | 5 | Time & Space Complexity, Big O Notation |
-| Arrays | ⏳ Upcoming | soon | 6 | Array Operations, Traversal |
+| Fundamentals of DSA | 🟩 In Progress | 19/10/2025 → Present | 0 | Time & Space Complexity, Big O Notation |
+| Arrays | ⏳ Upcoming | soon | 0 | Array Operations, Traversal |
 
 ---
 
