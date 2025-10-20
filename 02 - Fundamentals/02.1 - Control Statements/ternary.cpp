@@ -20,6 +20,4 @@ int main(){
     int b = 50;
     char b = a>20?'A':'B';
     cout<< b<<endl;
-
-
 }
