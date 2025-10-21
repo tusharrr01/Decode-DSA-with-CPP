@@ -27,7 +27,7 @@ int main(){
     int n ;
     cout<<"enter the number of rows: ";
     cin>>n;
-    int nsp = n-1; // number of spaves
+    int nsp = n-1; // number of spaces
     int nst = 1; // number of stars 
 
     for (int i = 1; i <= n; i++){
