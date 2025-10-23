@@ -1,0 +1,25 @@
+Question:
+    You are given a positive integer N. You must generate a new number according to the following rule:
+
+    - Starting from the rightmost digit, traverse each digit from right to left.
+    - For every even digit, add it to the result only if it is greater than the next (right-side) digit.
+    - For every odd digit, multiply it by the number of even digits found so far (from right to left).
+    - Finally, reverse the result to get the final number.
+    Print the final number.
+
+- Example :
+    Input:  N = 583264
+    Process:
+    Digits (right→left): 4,6,2,3,8,5
+    Even digits found (in order): 4,6,2,8 → total 4
+
+    Step-by-step:
+    4 → even → no next digit → skip
+    6 → even, next(4), 6>4 → add → result = 6
+    2 → even, next(6), 2<6 → skip
+    3 → odd → multiply by even_count(so far=2) → 3*2 = 6 → result = 6 6
+    8 → even, next(3), 8>3 → add → result = 6 6 8
+    5 → odd → multiply by even_count(so far=3) → 5*3 = 15 → result = 6 6 8 15
+
+    Reverse final result digits → 15 8 6 6
+    Final Output: 15866
