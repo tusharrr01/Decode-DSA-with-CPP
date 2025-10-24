@@ -23,3 +23,19 @@ Question:
 
     Reverse final result digits → 15 8 6 6
     Final Output: 15866
+
+- More Cases :
+    Input: 583264
+    Output: 15866 ✅
+
+    Input: 942351
+    Output: 184 ✅
+
+    Input: 765428
+    Output: 286154 ✅
+
+    Input: 321468
+    Output: 1223 ✅
+
+    Input: 824135
+    Output: 84 ✅
