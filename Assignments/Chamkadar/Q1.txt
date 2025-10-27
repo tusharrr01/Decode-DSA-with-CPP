@@ -26,7 +26,7 @@ Question:
 
 - More Cases :
     Input: 583264
-    Output: 15866 ✅
+    Output: 20896 ✅
 
     Input: 942351
     Output: 184 ✅
@@ -39,3 +39,5 @@ Question:
 
     Input: 824135
     Output: 84 ✅
+
+// based ControlStatement and Looping

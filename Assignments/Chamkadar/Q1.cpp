@@ -46,11 +46,12 @@ int main(){
         }
         n = n / 10;
         
+        
         // cout << "lastDigit  :" << lastDigit<< endl;
         // cout << "even  :" << even_num << endl;
         // cout << "temp  :" << temp << endl;
         // cout << "ans :" << ans<<endl;
-        // cout<<"\n\n";
+        cout<<"\n\n";
     }
     while (ans > 0){
         int temp  = ans % 10;
