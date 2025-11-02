@@ -33,8 +33,8 @@
 ✅ Introduction to DSA  
 ✅ Fundamentals of DSA  
 ✅ Functions And Pointers in DSA  
-✅ Arrays
-☑️ 2D Arrays
+✅ Arrays  
+☑️ 2D Arrays  
 🔲 Searching Algorithms  
 🔲 Sorting Algorithms  
 🔲 Recursion  
