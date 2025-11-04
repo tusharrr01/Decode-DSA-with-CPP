@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-
     int m; // number of Cows 
     int n; // number of Columns
     cout<< "Enter The Number Of Rows And Columns : ";
@@ -24,13 +23,11 @@ int main(){
         }
     }
 
-
     for(int i=0;i<m;i++){
         for(int j=0;j<n;j++){
             res[i][j] = arr[i][j] + brr[i][j];
         }
     }
-    
     
     cout<<"Addition Of Matrices : "<<endl;
     for(int i=0;i<m;i++){
@@ -38,10 +35,5 @@ int main(){
             cout<<res[i][j]<<" ";
         }
         cout<<endl;
-    }
-
-    
-    
-
-    
+    }  
 }
