@@ -1,4 +1,7 @@
-// write a program to print the transpose of the matrix enterd by the user and store it in a new matrix.
+// →  →  ↓    1 2 3     7 8 9 
+// ↓  ←  ←  > 4 5 6  >  6 5 4
+// →  →  →    7 8 9     1 2 3
+
 
 #include<iostream>
 using namespace std;
