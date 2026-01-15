@@ -32,7 +32,6 @@ int main(){
                 cin>>brr[i][j];
             }
         }
-
         // multiply
         int result[m][q];
         for(int i=0;i<m;i++){
@@ -43,7 +42,6 @@ int main(){
                 }
             }
         }
-
         //print 
         for(int i=0;i<m;i++){
             for(int j=0;j<q;j++){
