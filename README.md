@@ -26,7 +26,7 @@
 | **2D Arrays** | 🟩 In Progress | 02/11/2025 → 15/11/2025 | 11 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/05%20-%202D%20Arrays) |
 | **Break because of internship** | -- | 15/11/2025 → Present | -- | -- |
 | **Strings** | 🟩 In Progress | 16/01/2026 → Present | 8 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/06%20-%20Strings) |
-| **Searching Algorithms** | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
+| **Time and Space Analysis** | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
 
 ---
 
@@ -38,6 +38,7 @@
 ✅ Arrays  
 ✅ 2D Arrays  
 ☑️ Strings  
+🔲 Time and Space Analysis 
 🔲 Searching Algorithms  
 🔲 Sorting Algorithms  
 🔲 Recursion  
