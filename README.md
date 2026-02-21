@@ -23,10 +23,12 @@
 | **Fundamentals of DSA** | ✅ Completed | 19/10/2025 → 21/10/2025 | 30 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/02%20-%20Fundamentals) |
 | **Functions And Pointers in DSA** | ✅ Completed | 21/10/2025 → 26/10/2025 | 11 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/03%20-%20Functions%20And%20Pointers) |
 | **Arrays** | ✅ Completed | 26/10/2025 → 02/11/2025 | 26 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/04%20-%20Arrays) |
-| **2D Arrays** | 🟩 In Progress | 02/11/2025 → 15/11/2025 | 11 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/05%20-%202D%20Arrays) |
+| **2D Arrays** | ✅ Completed | 02/11/2025 → 15/11/2025 | 11 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/05%20-%202D%20Arrays) |
 | **Break because of internship** | -- | 15/11/2025 → Present | -- | -- |
-| **Strings** | 🟩 In Progress | 16/01/2026 → Present | 15 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/06%20-%20Strings) |
-| **Time and Space Analysis** | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
+| **Strings** | ✅ Completed | 16/01/2026 → 14/02/2026 | 15 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/06%20-%20Strings) |
+| **Time and Space Analysis** | ✅ Completed | 14/02/2026 → 21/02/2026 | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
+| **Sorting Algorithms** | 🟩 In Progress | 21/02/2026 → Present | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
+| **Searching Algorithms** | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
 
 ---
 
@@ -39,8 +41,8 @@
 ✅ 2D Arrays  
 ☑️ Strings  
 🔲 Time and Space Analysis 
-🔲 Searching Algorithms  
 🔲 Sorting Algorithms  
+🔲 Searching Algorithms  
 🔲 Recursion  
 🔲 Space and Time Complexity  
 🔲 Linked List  
