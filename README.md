@@ -39,9 +39,9 @@
 ✅ Functions And Pointers in DSA  
 ✅ Arrays  
 ✅ 2D Arrays  
-☑️ Strings  
-🔲 Time and Space Analysis 
-🔲 Sorting Algorithms  
+✅ Strings  
+✅ Time and Space Analysis 
+☑️ Sorting Algorithms  
 🔲 Searching Algorithms  
 🔲 Recursion  
 🔲 Space and Time Complexity  
