@@ -39,7 +39,7 @@ int main(){
             break;
         }
     }
-    // T.C. = O(n2)
+    // T.C. = O(n)
     // S.C. = O(1)
 
 
