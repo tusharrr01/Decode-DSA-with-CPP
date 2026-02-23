@@ -27,7 +27,8 @@
 | **Break because of internship** | -- | 15/11/2025 → Present | -- | -- |
 | **Strings** | ✅ Completed | 16/01/2026 → 14/02/2026 | 15 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/06%20-%20Strings) |
 | **Time and Space Analysis** | 🟩 In Progress | 14/02/2026 → 21/02/2026 | 0 | 📂 No Code |
-| **Sorting Algorithms** | 🟩 In Progress | 21/02/2026 → Present | 7 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
+| **Sorting Algorithms** | ✅ Completed | 21/02/2026 → 23/02/2026 | 7 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/tree/main/08%20-%20Sorting%20Algorithms) |
+| **Searching Algorithms** | 🟩 In Progress | 23/02/2026 → Present | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
 | **Searching Algorithms** | ⏳ Upcoming | soon | 0 | [📂 View Code](https://github.com/tusharrr01/Decode-DSA-with-CPP/) |
 
 ---
@@ -41,8 +42,8 @@
 ✅ 2D Arrays  
 ✅ Strings  
 ☑️ Space and Time Complexity  
-☑️ Sorting Algorithms  
-🔲 Searching Algorithms  
+✅ Sorting Algorithms  
+☑️ Searching Algorithms  
 🔲 Recursion  
 🔲 Linked List  
 🔲 Stack  
